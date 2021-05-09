@@ -1,0 +1,6 @@
+[submodule "bikeshare"]
+	path = bikeshare
+	url = https://github.com/moustafa-moubarak/bikeshare.git
+[submodule "Data_Wrangling"]
+	path = Data_Wrangling
+	url = https://github.com/moustafa-moubarak/Data_Wrangling.git
